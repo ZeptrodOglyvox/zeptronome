@@ -1,0 +1,18 @@
+- Settings page with:
+    MORE COLORS
+    Choices for the logic below
+
+- Better recorder logic:
+    press record -> pause player first
+    press play -> pause record first 
+    play button should always be pressable or become pressable as soon as record is hit
+    press delete -> pause everything first
+
+- Metronome interaction with recorder:
+    - metronome automatically pauses when play is hit, and resumes when playback is finished
+    - if play is hit on the metronome during playback, play stops
+
+- Try to improve the metronome startup thing and also figure out why playback transfers to the small speaker randomly 
+- Tap tempo
+- Recorder does some sort of compress+gain on the recording.
+- Timer for breaks
